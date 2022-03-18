@@ -360,7 +360,13 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
-  }
+  },
+  Ronambulo: {
+    title_color: "9146FF",
+    icon_color: "FFFFFF",
+    text_color: "FFFFFF",
+    bg_color: "292d3e",
+  },
 };
 
 module.exports = themes;
